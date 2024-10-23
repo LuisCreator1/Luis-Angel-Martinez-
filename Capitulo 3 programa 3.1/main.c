@@ -2,7 +2,7 @@
 
 /* Nómina.
 El programa, al recibir los salarios de 15 profesores, obtiene el total de la
-➥nómina de la universidad.
+nómina de la universidad.
 
 I: variable de tipo entero.
 SAL y NOM: variables de tipo real. */
