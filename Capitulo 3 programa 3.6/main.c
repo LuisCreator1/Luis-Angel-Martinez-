@@ -2,7 +2,7 @@
 
 /* Nómina de profesores.
 El programa, al recibir como datos los salarios de los profesores de una
-➥universidad, obtiene la nómina y el promedio de los salarios.
+universidad, obtiene la nómina y el promedio de los salarios.
 
 I: variable de tipo entero.
 SAL, NOM y PRO: variables de tipo real. */
