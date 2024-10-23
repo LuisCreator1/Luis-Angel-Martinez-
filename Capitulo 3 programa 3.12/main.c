@@ -4,7 +4,7 @@
 /* Serie de ULAM.
 
 El programa, al recibir como dato un entero positivo, obtiene y escribe
-➥la serie de ULAM.
+la serie de ULAM.
 
 NUM: variable de tipo entero. */
 
