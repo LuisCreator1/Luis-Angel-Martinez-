@@ -3,7 +3,7 @@
 /* Examen de admisión.
 
 El programa, al recibir como datos una serie de calificaciones de un examen,
-➥obtiene el rango en que se encuentran éstas.
+obtiene el rango en que se encuentran éstas.
 
 R1, R2, R3, R4 y R5: variable de tipo entero.
 CAL: variable de tipo real. */
