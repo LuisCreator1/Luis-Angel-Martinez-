@@ -2,7 +2,7 @@
 
 /* Suma positivos.
 El programa, al recibir como datos N números enteros, obtiene la suma de los
-➥enteros positivos.
+enteros positivos.
 
 I, N, NUM, SUM: variables de tipo entero. */
 
