@@ -2,7 +2,7 @@
 
 /* Lanzamiento de martillo.
 El programa, al recibir como dato N lanzamientos de martillo, calcula el promedio
-➥de los lanzamientos de la atleta cubana.
+de los lanzamientos de la atleta cubana.
 
 I, N: variables de tipo entero.
 LAN, SLA: variables de tipo real. */
