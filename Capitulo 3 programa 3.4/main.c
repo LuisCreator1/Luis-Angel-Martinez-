@@ -3,7 +3,7 @@
 
 /* Suma cuadrados.
 El programa, al recibir como datos un grupo de enteros positivos, obtiene el
-➥cuadrado de los mismos y la suma correspondiente a dichos cuadrados. */
+cuadrado de los mismos y la suma correspondiente a dichos cuadrados. */
 
 void main(void)
 {
